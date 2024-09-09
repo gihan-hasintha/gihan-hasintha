@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gihan Hasintha</h1>
 <h3 align="center">Investor 💸 | Innovator 💻 | 📚 Educator</h3>
 
---
+---
 
 - 🔭 I’m currently working on **Imagini Education**
 
@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **gihan@imagini.lk**
 
+---
 
 <h3 align="left" style="padding-top: 445px;">Connect with me:</h3>
 <p align="left">
