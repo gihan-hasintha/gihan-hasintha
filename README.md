@@ -14,7 +14,7 @@
 - 📫 How to reach me **gihan@imagini.lk**
 
 
-<h3 align="left" style="padding-top: 45px;">Connect with me:</h3>
+<h3 align="left" style="padding-top: 445px;">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/imagini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imagini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gihan-hasintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan-hasintha" height="30" width="40" /></a>
