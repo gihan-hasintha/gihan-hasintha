@@ -5,7 +5,7 @@
 
 ---
 
-<p align="center" ><img  src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true](https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg)" width = 100px></p>
+<img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" alt="SVG Example">
 
 - 🔭 I’m currently working on **Imagini Education**
 
