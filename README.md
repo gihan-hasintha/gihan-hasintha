@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gihan Hasintha</h1>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
 <h3 align="center">Investor 💸 | Innovator 💻 | 📚 Educator</h3>
 
 ---
 
-<p align="center" ><img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" alt="SVG Example"></p>
+<p align="left" ><img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" alt="SVG Example"></p>
 
 - 🔭 I’m currently working on **Imagini Education**
 
