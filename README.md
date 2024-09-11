@@ -4,8 +4,6 @@
 
 ---
 
-<p align="left" ><img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" alt="SVG Example"></p>
-
 - 🔭 I’m currently working on **Imagini Education**
 
 - 🌱 I’m currently learning **Cyber Security**
