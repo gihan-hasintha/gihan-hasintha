@@ -14,6 +14,9 @@
 
 ---
 
+
+<p align="center" ><img  src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif](https://camo.githubusercontent.com/9c781231cdbfb3f5b3d22ea4d1c9582e06ad5b3bf45949824621838135f85e15/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d706173696e647573616d70617468267468656d653d746f6b796f6e69676874266e6f2d6672616d653d66616c7365266e6f2d62673d66616c7365266d617267696e2d773d3426726f773d3226636f6c756d6e3d34)?raw=true" width = 100px></p>
+
 <h3 align="center" style="padding-top: 445px;">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/imagini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imagini" height="30" width="40" /></a>
